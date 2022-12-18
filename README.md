@@ -6,7 +6,7 @@
   
   </div>
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on Mobile Development
 - 🌱 I’m currently learning Flutter
 
 <div align="center">
