@@ -1,4 +1,4 @@
-### Hello there, i'm Reinaldo Salazar 👋
+### Hello there, i'm Reinaldo Salazar 👨‍💻
   <div> 
 
 <a href="https://www.linkedin.com/in/reisalazar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -7,7 +7,7 @@
   </div>
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Android Compose
 
 <div align="center">
   <a href="https://github.com/reisalazar">
