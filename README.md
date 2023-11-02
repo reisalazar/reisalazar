@@ -1,4 +1,4 @@
-### Hi there, i'm Reinaldo Salazar 👋
+### Hello there, i'm Reinaldo Salazar 👋
   <div> 
 
 <a href="https://www.linkedin.com/in/reisalazar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
