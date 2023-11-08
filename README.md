@@ -13,7 +13,7 @@
 <img height="180em" src="https://github-readme-stats-git-master-reisalazar.vercel.app/api?username=reisalazar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ### 📌 Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reisalazar&repo=Jogo-da-Velha-App-Compopse&layout=compact&theme=dark)](https://github.com/reisalazar/Jogo-da-Velha-App-Compopse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reisalazar&repo=Jogo-da-Velha-App-Compose&layout=compact&theme=dark)](https://github.com/reisalazar/Jogo-da-Velha-App-Compose)
 
 ### 🚀 Most Used Languages
 <img height="180em" src="https://github-readme-stats-git-master-reisalazar.vercel.app//api/top-langs/?username=reisalazar&layout=compact&theme=dark"/>
